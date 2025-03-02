@@ -24,7 +24,7 @@ Used stacked bar charts to analyze relationships between categorical and continu
 
 👥 Customer Demographics vs. Sum of Lead Times
 
-### 📊 Dashboard Highlights
+## 📊 Dashboard Highlights
 
 ✅ Interactive Interface: Provides an intuitive interface to filter and analyze supply chain performance.
 ✅ Deeper Insights: Enables comprehensive insights into product availability, customer demographics, and revenue trends.
