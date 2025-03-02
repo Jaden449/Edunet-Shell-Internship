@@ -26,4 +26,6 @@ Used stacked bar charts to analyze relationships between categorical and continu
 
 ### 📊 Dashboard Highlights
 
-✅ Interactive Interface: Provides an intuitive interface to filter and analyze supply chain performance.✅ Deeper Insights: Enables comprehensive insights into product availability, customer demographics, and revenue trends.✅ Data-Driven Decision Making: Enhances decision-making for optimizing sustainable supply chains.
+✅ Interactive Interface: Provides an intuitive interface to filter and analyze supply chain performance.
+✅ Deeper Insights: Enables comprehensive insights into product availability, customer demographics, and revenue trends.
+
