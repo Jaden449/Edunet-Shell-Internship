@@ -7,7 +7,7 @@ During my internship at Edunet-Shell, I leveraged Power BI to conduct data analy
 
 ### Week 1
 
-🔹 Slicer Visualization
+🔹-> Slicer Visualization
 
 Implemented slicers to explore categorical columns in the inventory table, focusing on:
 
@@ -15,7 +15,7 @@ Implemented slicers to explore categorical columns in the inventory table, focus
 
 🏷️ Customer Demographics
 
-🔹 Stacked Bar Charts
+🔹-> Stacked Bar Charts
 
 Used stacked bar charts to analyze relationships between categorical and continuous variables, including:
 
@@ -27,28 +27,28 @@ Used stacked bar charts to analyze relationships between categorical and continu
 
 ### Week 2
 
-🔹 Clustered Bar Chart
+🔹-> Clustered Bar Chart
 
 Analyzed transportation efficiency with a clustered bar chart:
 
 🚚 Transportation Modes vs. Average Shipping Cost and Average Shipping Time
 
-🔹 Pie Chart
+🔹-> Pie Chart
 Examined customer ordering patterns:
 
 📈 Customer Demographics vs. Sum of Order Quantities
 
-🔹 Donut Chart
+🔹-> Donut Chart
 Visualized supplier contributions:
 
 🏭 Sum of Number of Products Sold by Supplier Name
 
-🔹 Funnel Chart
+🔹-> Funnel Chart
 Tracked lead time efficiency across routes:
 
 ⏳ Average Lead Time by Routes
 
-🔹 Simple Cards
+🔹-> Simple Cards
 Displayed key metrics at a glance:
 
 📌 Number of Products
