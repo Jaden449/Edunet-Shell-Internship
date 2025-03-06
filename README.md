@@ -34,21 +34,25 @@ Analyzed transportation efficiency with a clustered bar chart:
 🚚 Transportation Modes vs. Average Shipping Cost and Average Shipping Time
 
 🔹-> Pie Chart
+
 Examined customer ordering patterns:
 
 📈 Customer Demographics vs. Sum of Order Quantities
 
 🔹-> Donut Chart
+
 Visualized supplier contributions:
 
 🏭 Sum of Number of Products Sold by Supplier Name
 
 🔹-> Funnel Chart
+
 Tracked lead time efficiency across routes:
 
 ⏳ Average Lead Time by Routes
 
 🔹-> Simple Cards
+
 Displayed key metrics at a glance:
 
 📌 Number of Products
