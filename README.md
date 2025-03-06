@@ -1,6 +1,6 @@
 # 🚀 Edunet-Shell Internship
 
-📌 Overview
+## 📌 Overview
 
 During my internship at Edunet-Shell, I leveraged Power BI to conduct data analysis and develop an interactive dashboard for a dataset focused on Sustainable Supply Chain Performance. The analysis aimed to derive meaningful insights and enhance data visualization for better decision-making.
 
