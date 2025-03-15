@@ -1,12 +1,17 @@
 # 🚀 Edunet-Shell Internship
 
+
 ## 📌 Overview
+
 
 During my internship at Edunet-Shell, I leveraged Power BI to conduct data analysis and develop an interactive dashboard for a dataset focused on Sustainable Supply Chain Performance. The analysis aimed to derive meaningful insights and enhance data visualization for better decision-making.
 
-## ✨ Key Analyses Conducted
+
+### ✨ Key Analyses Conducted
+
 
 ### Week 1
+
 
 🔹-> Slicer Visualization
 
@@ -27,6 +32,7 @@ Used stacked bar charts to analyze relationships between categorical and continu
 👥 Customer Demographics vs. Sum of Lead Times
 
 ### Week 2
+
 
 🔹-> Clustered Bar Chart
 
@@ -60,7 +66,48 @@ Displayed key metrics at a glance:
 
 📌 Total Number of Routes
 
+### Week 3
+
+
+🔹-> Area Chart
+
+Visualized production performance trends:
+
+📍 Sum of Production Volume by Lead Time
+
+🔹-> Map Visualization
+
+Geographical insights into revenue distribution across India:
+
+🗺️ Locations Where Revenue Was Generated with Bubble Size Indicating Revenue Amount
+
+🔹-> Matrix Visual (SKU Analysis)
+
+Comprehensive comparison of product categories:
+
+🛍️ Total Number of Products by SKU Type (e.g., Cosmetics, Hair, and Skincare)
+
+🔹-> Matrix Visual (Location-Route Analysis)
+
+Explored route performance by location:
+
+📌 Various Locations and Their Associated Routes with Average Lead Time
+
+🔹-> Treemap Visualization
+
+Shipping cost breakdown by carrier:
+
+📦 Sum of Shipping Cost by Three Different Shipping Carriers
+
+🔹-> Table Visualization
+
+Detailed SKU-level performance overview:
+
+📌 SKU, Associated Route, Sum of Shipping Cost, Sum of Price, Sum of Availability, and Location
+
+
 ## 📊 Dashboard Highlights
+
 
 ✅ Interactive Interface: Provides an intuitive interface to filter and analyze supply chain performance.
 
